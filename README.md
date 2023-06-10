@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Scripting Languages (Python, Perl or NodeJs), Unity (C#), Vue JS and DevOps tools**
 
-- 👨‍💻 All of my projects are available at [GitHub for now](GitHub for now)
+- 👨‍💻 All of my projects are available at [GitHub for now](https://github.com/Tabinka)
 
 - 📫 How to reach me **On Discord (sweetkissfromdeath)**
 
